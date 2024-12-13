@@ -82,7 +82,7 @@ Requirements
   - `seaborn`
 
 
-Google Collab link- https://colab.research.google.com/drive/1Bj0iSkYRUk8iSRT0mvOg4FaSSAf1udeh?usp=sharing
+Google Colab link- https://colab.research.google.com/drive/1Bj0iSkYRUk8iSRT0mvOg4FaSSAf1udeh?usp=sharing
 
 
 Datasets link- https://drive.google.com/file/d/1W5I2M_DJAuiVHPXNJSmJXNBLfPIB8iUw/view?usp=sharing
