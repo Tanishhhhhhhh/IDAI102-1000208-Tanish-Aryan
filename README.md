@@ -28,50 +28,47 @@ The analysis uses two datasets:
 
 Visualizations and Insights
 
-### 1. Top 10 Countries in Gymnastics Over Years
+1. Top 10 Countries With Most Gold Medals
+- **Description**: Aggregated medal counts for the top-performing countries in all Olympic Games.
+- **Visualization**: A bar chart of total medals.
+- **Insight**: The United States and other developed nations dominate the medal counts.
+2. Top 10 Countries in Gymnastics Over Years
 - **Description**: Identified the top 10 countries excelling in gymnastics based on medal counts.
 - **Visualization**: A bar chart of total medals won by these countries.
 - **Insight**: Consistent dominance by a few countries in gymnastics.
-
-### 2. Gender Participation Analysis
+3. Gender Participation Analysis
 - **Description**: Examined the gender distribution of Olympic participants.
 - **Visualization**: A pie chart showing male and female participation percentages.
 - **Insight**: A significant increase in female participation over the years.
-
-### 3. Sports Count Over Time
+4. Sports Count Over Time
 - **Description**: Plotted the number of sports held in each Olympic year.
 - **Visualization**: A line chart showing the count of unique sports per year.
 - **Insight**: The Olympics have consistently added more sports over time.
-
-### 4. Age Distribution of Gold Medalists
+5. Age Distribution of Gold Medalists
 - **Description**: Analyzed the ages of gold medalists.
 - **Visualization**: A histogram of ages.
 - **Insight**: Most gold medalists fall within a specific age range, indicating peak performance ages.
-
-### 5. Summer and Winter Sports Over Time
+6. Summer and Winter Sports Over Time
 - **Description**: Explored the evolution of Summer and Winter Olympic sports.
 - **Visualization**: Line charts for both Summer and Winter sports over the years.
 - **Insight**: Summer sports have diversified more than Winter sports.
-
-### 6. Average Height of Male and Female Athletes Over Years
+7. Winter Sports Over Time
+- **Description**: Explored the evolution of Winter Olympic sports.
+- **Visualization**: Line charts for Winter sports over the years.
+- **Insight**: Winter sports have shown steady growth in variety and participation \
+8. Average Height of Male and Female Athletes Over Years
 - **Description**: Examined trends in the average height of athletes by gender.
 - **Visualization**: A line chart showing average heights.
 - **Insight**: Gradual changes in average height, influenced by sport-specific requirements.
-
-### 7. Top Performing Athletes in Ice Hockey
+9. Top Performing Athletes in Ice Hockey
 - **Description**: Highlighted top-performing athletes in ice hockey over the past 10 Olympic Games.
 - **Visualization**: A bar chart showing medal counts for the top 5 athletes.
 - **Insight**: Identified athletes with consistent success.
-
-### 8. India’s Olympic Performance
+10. India’s Olympic Performance
 - **Description**: Analyzed India’s participation and medal counts across all Olympic Games.
 - **Visualization**: A bar chart showing gold, silver, and bronze medals.
 - **Insight**: India's performance is improving, with notable contributions in specific sports.
 
-### 9. Top 10 Countries With Medals
-- **Description**: Aggregated medal counts for the top-performing countries in all Olympic Games.
-- **Visualization**: A bar chart of total medals.
-- **Insight**: The United States and other developed nations dominate the medal counts.
 
 Requirements
 
